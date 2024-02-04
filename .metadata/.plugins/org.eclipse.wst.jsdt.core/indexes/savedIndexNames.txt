@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Web_Development\Servlet and JSP\Java_Servlet_Pages_(JSP)\Project_TechBlog\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+701727793.index
+4120934604.index
+3731430309.index
+2964563765.index
+2148024106.index
+2126087806.index
+3464645540.index
+615231966.index

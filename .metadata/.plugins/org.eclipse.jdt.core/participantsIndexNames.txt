@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\Web_Development\Servlet and JSP\Java_Servlet_Pages_(JSP)\Project_TechBlog\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1769754416.index
+\JSP_Tags\src\main\java
+C:\Web_Development\Servlet and JSP\Java_Servlet_Pages_(JSP)\Project_TechBlog\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1819585658.index
+\JSTL\src\main\java
+C:\Web_Development\Servlet and JSP\Java_Servlet_Pages_(JSP)\Project_TechBlog\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2096694017.index
+\ExceptionHandling\src\main\java
+C:\Web_Development\Servlet and JSP\Java_Servlet_Pages_(JSP)\Project_TechBlog\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2399945666.index
+\Creating_Custom_Tags\src\main\java
