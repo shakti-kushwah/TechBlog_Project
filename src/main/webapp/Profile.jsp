@@ -134,9 +134,9 @@
 		    	 			<h3 class="mt-2">Loading.....</h3>
 		    	 		</div>
 		    	 		
-		    	 		<div class="ontainer-fluid" id="post-container">
-		    	 			
-		    	 		</div>
+		    	 		<div class="container-fluid" id="post-container">
+
+                        </div>
 		    	 	</div>
 		    	</div>
 		    </div>
@@ -156,7 +156,7 @@
 		      		</div>
 		      		<div class="modal-body">
 		      			<div class="container text-center">
-		      				<img src="Profile_Pics/<%= user.getProfile()%>" class="img-fluid" style="border-radius:50%;max-width: 150px;;" >
+		      				<img src="Profile_Pics/<%= user.getProfile()%>" class="img-fluid" style="border-radius:50%;max-width: 150px;" >
 		      				<br>
 		      				<h5 class="modal-title" id="exampleModalLabel"> <%= user.getName() %> </h5>
 		      				

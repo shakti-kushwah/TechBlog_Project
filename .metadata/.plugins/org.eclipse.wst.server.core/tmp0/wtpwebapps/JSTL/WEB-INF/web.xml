@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" id="WebApp_ID" version="6.0">
+  <display-name>JSTL</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+  </welcome-file-list>
+  
+  
+ <!-- Remove .jsp in browser's url when program execute -->
+  <servlet>
+	  <servlet-name>functionTags</servlet-name>
+	  <jsp-file>/FunctionTags.jsp</jsp-file>
+  </servlet>
+  
+  <servlet-mapping>
+	  <servlet-name>functionTags</servlet-name>
+	  <url-pattern>/FunctionTags</url-pattern>
+	  <url-pattern>/function</url-pattern>
+  </servlet-mapping>
+</web-app>
